@@ -1,0 +1,1081 @@
+﻿Customer Message,Category
+"can you please lower the price	",price negotiate
+"can I get some discount over this product	",price negotiate
+"any discount available	",price negotiate
+"is there any concession	",price negotiate
+"is there any offer on price	",price negotiate
+"is there any discount offer	",price negotiate
+"*can I get discount if I buy 2 products*	",price negotiate
+"is there any festival offer or deals	",price negotiate
+"cant you lower the price for me too	",price negotiate
+"is there any scheme on your products	",price negotiate
+"any offer?	",price negotiate
+"any discount?	",price negotiate
+"can you give #% discount	",price negotiate
+"discount please	",price negotiate
+"it wiill be better if you give discount	",price negotiate
+"it will be affordable if you give some discount	",price negotiate
+"i want many will i get any discount	",price negotiate
+"i want in numbers will i get any discount	",price negotiate
+"i will buy more if i get a discount	",price negotiate
+"i want to buy # wil i get a discount	",price negotiate
+"please lower the price	",price negotiate
+"be kind and lower the price	",price negotiate
+"make it roundoff amount	",price negotiate
+"is it possible to roundoff	",price negotiate
+"you are not letting me bargain	",price negotiate
+"what is the problem if i bargain	",price negotiate
+"why cant i bargain	",price negotiate
+"no special offer for me	",price negotiate
+"can you reduce price	",price negotiate
+"can you reduce amount	",price negotiate
+"any reduction in price	",price negotiate
+"price reduction?	",price negotiate
+"please reduce the price	",price negotiate
+"reduce price	",price negotiate
+"how costly?	",price negotiate
+"why this much costly?	",price negotiate
+"it is too much expensive	",price negotiate
+"dont you think it is too much expensive	",price negotiate
+"come on	",price negotiate
+"please adjust the price	",price negotiate
+"do something about the price	",price negotiate
+"please lower the price	",price negotiate
+"the price looks to high	",price negotiate
+"price is high	",price negotiate
+"price is too high	",price negotiate
+"can you lower the price	",price negotiate
+"please lower the price	",price negotiate
+"I cant afford at this price	",price negotiate
+"I cant afford it	",price negotiate
+"is there any discount	",price negotiate
+"is it negotiable	",price negotiate
+"please give me some discount	",price negotiate
+"I want discount	",price negotiate
+"can I get some discount	",price negotiate
+"any discounts	",price negotiate
+"why no discounts	",price negotiate
+"cant you do some discount	",price negotiate
+"please adjust the price	",price negotiate
+"do something about the price	",price negotiate
+"please lower the price	",price negotiate
+"the price looks to high	",price negotiate
+"price is high	",price negotiate
+"price is too high	",price negotiate
+"can you lower the price	",price negotiate
+"please lower the price	",price negotiate
+"please adjust the price	",price negotiate
+"do something about the price	",price negotiate
+"please lower the price	",price negotiate
+"the price looks to high	",price negotiate
+"price is high	",price negotiate
+"price is too high	",price negotiate
+"can you lower the price	",price negotiate
+"please lower the price	",price negotiate
+"can it be lowered	",price negotiate
+"can it be adjusted	",price negotiate
+"it is high rate	",price negotiate
+"it's too much	",price negotiate
+"don't you think it's too much	",price negotiate
+"it is not affordable	",price negotiate
+"this is not affordable	",price negotiate
+"the price seems too high	",price negotiate
+"It is out of budget	",price negotiate
+"not convinced..at this price	",price negotiate
+"isn't it possible to lower the price	",price negotiate
+"how much price you can lower	",price negotiate
+"how much price negotiation you can do	",price negotiate
+"how much price negotiation is in your hand	",price negotiate
+"this is worth negotiation	",price negotiate
+"you should lower price	",price negotiate
+"you must lower price	",price negotiate
+"why are you not lowering price	",price negotiate
+"why cant you lower the price	",price negotiate
+"what is your problem in negotiation	",price negotiate
+"what is your problem in lowering cost	",price negotiate
+"what is your problem in lowering price	",price negotiate
+"what is your problem in minimizing cost	",price negotiate
+"what is your problem in minimizing price	",price negotiate
+"This should not be the proper price	",price negotiate
+"You must consider my request to minimize price	",price negotiate
+"You must consider my request to minimize cost	",price negotiate
+"what is the price	",price ask
+"how much cost	",price ask
+"tell me the price	",price ask
+"price	",price ask
+"at how much amount	",price ask
+"what is cost	",price ask
+"heyy! what is cost	",price ask
+"hey! what is cost	",price ask
+"hey!! what is cost?	",price ask
+"cost?	",price ask
+"price?	",price ask
+"can u plz tell me price of the product?	",price ask
+"what is the amount	",price ask
+"what is the amount of that product	",price ask
+"what is the amount of this product	",price ask
+"whats the amount	",price ask
+"lets talk about the amount	",price ask
+"lets talk about the amount and what is it	",price ask
+"hey bro   what is the amount	",price ask
+"tell me about price	",price ask
+"tell me about amount	",price ask
+"what is the price	",price ask
+"what is the price of that product	",price ask
+"what is the price of this product	",price ask
+"whats the price	",price ask
+"lets talk about the price	",price ask
+"lets talk about the price and what is it	",price ask
+"hey bro   what is the price	",price ask
+"what is the cost	",price ask
+"what is the cost of that product	",price ask
+"what is the cost of this product	",price ask
+"whats the cost	",price ask
+"lets talk about the cost	",price ask
+"lets talk about the cost and what is it	",price ask
+"hey bro   what is the cost	",price ask
+"please tell me the cost	",price ask
+"what could be the cost	",price ask
+"how much it will cost	",price ask
+"cost details please	",price ask
+"send more details reagarding price	",price ask
+"details please	",price ask
+"cost related details i want	",price ask
+"price related details i want	",price ask
+"price please	",price ask
+"i want price related information	",price ask
+"send price related information	",price ask
+"what can be the price	",price ask
+"*this much # can be the price na*	",price ask
+"Price details please	",price ask
+"Amount details please	",price ask
+"Can i get price details	",price ask
+"Can i get amount details	",price ask
+"Can i get price details	",price ask
+"Will you please provide price details	",price ask
+"Will you please provide amount details	",price ask
+"Will you please give me the price details	",price ask
+"Will you please give me the amount details	",price ask
+"Can i get the cost details	",price ask
+"will you please give me the cost details	",price ask
+"Will you please provide me the cost details	",price ask
+"Detailed information related to price	",price ask
+"Detailed information related to amount	",price ask
+"Detailed information related to cost	",price ask
+"Provide amount details please	",price ask
+"Provide cost details please	",price ask
+"talk about the price  what is it	",price ask
+"Provide price details please	",price ask
+"What is purchasing price	",price ask
+"text me price details	",price ask
+"text me amount details	",price ask
+"Text me cost details	",price ask
+"How much i have to pay to you	",price ask
+"How much i have to give you	",price ask
+"how much is the price	",price ask
+"How much is the amount	",price ask
+"How much is the cost	",price ask
+"How much is the money in total	",price ask
+"At what price you are selling	",price ask
+"At what amount you are selling	",price ask
+"At what cost you are selling	",price ask
+"At what price you are ready to go	",price ask
+"At what price you are ready to sell	",price ask
+"At what amount you are ready to go	",price ask
+"At what cost you are ready to go	",price ask
+"At what amount you are ready to sell	",price ask
+"At what cost you are ready to sell	",price ask
+"What to pay?	",price ask
+"What is your labelled price?	",price ask
+"What is your labelled amount?	",price ask
+"What is your labelled cost?	",price ask
+"What is the mrp?	",price ask
+"mrp?	",price ask
+"What is the mrp of the product?	",price ask
+"What is the retailing price?	",price ask
+"how much is the rate?	",price ask
+"What is the rate?	",price ask
+"rate?	",price ask
+"Tell me about the rate	",price ask
+"Provide the details of rate	",price ask
+"Lets talk about the rate	",price ask
+"Rate of product?	",price ask
+"first of all  tell me the rate?	",price ask
+"Give me the rate details	",price ask
+"Give me the information about rate	",price ask
+"money value to pay?	",price ask
+"And the amout to give?	",price ask
+"And the money to give?	",price ask
+"your price is very reasonable	",price compliment
+"your cost price is very appropriate	",price compliment
+"price is very suitable	",price compliment
+"this is very affordable	",price compliment
+"this is in budget	",price compliment
+"it is affordable	",price compliment
+"its nice and affordable	",price compliment
+"its resonable	",price compliment
+"thank you for the discount	",price compliment
+"nice discount	",price compliment
+"it is affordable with the discount	",price compliment
+"thanks	",price compliment
+"price is very appropriate	",price compliment
+"discount is not so bad	",price compliment
+"discount is appreciable	",price compliment
+"discount is too much appreciable	",price compliment
+"thanks for special discount that you offered me	",price compliment
+"Nice price	",price compliment
+"its proper rate	",price compliment
+"Proper price	",price compliment
+"The product was under budget	",price compliment
+"Its affordable	",price compliment
+"It is in budget	",price compliment
+"price is appriciable	",price compliment
+"it is appreciable	",price compliment
+"It’s Okay	",price compliment
+"good price but not necessarily good value	",price compliment
+"Good price	",price compliment
+"Good stuff	",price compliment
+"Very goodprice	",price compliment
+"Very affordable	",price compliment
+"Really good price	",price compliment
+"What a price!	",price compliment
+"The price looks good	",price compliment
+"The price looks great	",price compliment
+"The price looks ok	",price compliment
+"The price offer is good	",price compliment
+"Thanks for the offer	",price compliment
+"Your price offer is good	",price compliment
+"The price offered great	",price compliment
+"Great price!!!	",price compliment
+"U have affordable price	",price compliment
+"I can think of buying with this price	",price compliment
+"I think the price is good	",price compliment
+"Best price I ever got !!!	",price compliment
+"I am satisfied with this price	",price compliment
+"Good price with value	",price compliment
+"Your price is as per expectation	",price compliment
+"Bumper price	",price compliment
+"You bring out the bestprice in camparision to others	",price compliment
+"Price is worth full	",price compliment
+"I am lucky to have such reasonable price	",price compliment
+"Reasonable price	",price compliment
+"Reasonable and affordable	",price compliment
+"Price is fair enough	",price compliment
+"It is the same price I expected	",price compliment
+"Price is cheaper	",price compliment
+"Price is standard and acceptable	",price compliment
+"Price is acceptable	",price compliment
+"It is marginal	",price compliment
+"U meet my expected price	",price compliment
+"I found my dream price	",price compliment
+"Price is full of worth	",price compliment
+"Price reflects the quality	",price compliment
+"Price provides the worth	",price compliment
+"It is satifactory	",price compliment
+"price is satisfying	",price compliment
+"Price is satisfiable	",price compliment
+"Wow! i never thought this product at this rate	",price compliment
+"Amount is full of worth	",price compliment
+"Amount reflects the quality	",price compliment
+"Amount provides the worth	",price compliment
+"Amount is satisying	",price compliment
+"Amount is satisfiable	",price compliment
+"its a great deal at this price	",price compliment
+"It really great to have this product at this rate	",price compliment
+"Its a great deal at this amount	",price compliment
+"Its a great deal at this rate	",price compliment
+"Its a great deal at this cost	",price compliment
+"It really great to have this product at this amount	",price compliment
+"It really great to have this product at this price	",price compliment
+"Yeah  satisfied with this price	",price compliment
+"Yeah  satisfied with this amount	",price compliment
+"Yeah  satisfied with this cost	",price compliment
+"Yeah  satisfied with this rate	",price compliment
+"Cool price	",price compliment
+"Cool at this rate	",price compliment
+"happy at this rate	",price compliment
+"Happy at this price	",price compliment
+"Comparable to wholesale price	",price compliment
+"Huge profit at this price	",price compliment
+"I can think of another transaction at this price	",price compliment
+"Price is nominal	",price compliment
+"At this price I can buy more products	",price compliment
+"The price is lower now	",price compliment
+"Wow ! It’s like great sale at this price	",price compliment
+"Your price is meeting my all needs	",price compliment
+"I never saw such low price	",price compliment
+"Your price is better than others	",price compliment
+"A stipulated price I think	",price compliment
+"nice products	",product compliment
+"good products	",product compliment
+"products are really good	",product compliment
+"products are really nice	",product compliment
+"really good products	",product compliment
+"really nice products	",product compliment
+"this color is nice	",product compliment
+"that color was nice	",product compliment
+"this is a really good color	",product compliment
+"this is really nice	",product compliment
+"this is really good	",product compliment
+"nice design	",product compliment
+"good design	",product compliment
+"really nice design	",product compliment
+"really good design	",product compliment
+"good variety	",product compliment
+"fabulous products	",product compliment
+"amazing	",product compliment
+"amazing products	",product compliment
+"beautiful	",product compliment
+"it looks good	",product compliment
+"it looks nice	",product compliment
+"wow! nice	",product compliment
+"wonderful	",product compliment
+"sporty	",product compliment
+"wow! sporty shoes	",product compliment
+"nice! sporty shoes	",product compliment
+"got my delivery today! nice color	",product compliment
+"got my delivery today! good quality	",product compliment
+"got my delivery today! comfortable piece	",product compliment
+"got my delivery today! comfortable product	",product compliment
+"wow! what a product	",product compliment
+"Comfortable size  Size chart is perfect.	",product compliment
+"Good Quality	",product compliment
+"nice texture	",product compliment
+"good texture	",product compliment
+"texture is nice	",product compliment
+"texture is good	",product compliment
+"so nice	",product compliment
+"cool	",product compliment
+"its cool	",product compliment
+"so cool	",product compliment
+"very beautiful	",product compliment
+"attractive	",product compliment
+"this color is attractive	",product compliment
+"so attractive	",product compliment
+"very attractive	",product compliment
+"this design is attractive	",product compliment
+"Good service	",product compliment
+"design is attractive	",product compliment
+"Nice fitting quite good fabric	",product compliment
+"nice fabric	",product compliment
+"Good Quality Cotton  Extremely Smooth and comfortable	",product compliment
+"nice product Value for money	",product compliment
+"nice fitting	",product compliment
+"good fitting	",product compliment
+"very nice fitting	",product compliment
+"fitting is nice	",product compliment
+"Good quality and met my expectations	",product compliment
+"Wasting of money	",product compliment
+"bad quality	",product compliment
+"cheap product	",product compliment
+"not meet my expectations	",product compliment
+"Brilliant purchase	",product compliment
+"I got defected piece	",product compliment
+"quality is better compare to price	",product compliment
+"just ok ok product.	",product compliment
+"product as promised	",product compliment
+"good quality in low price  thanks	",product compliment
+"size is smaller than actual size	",product compliment
+"damaged piece	",product compliment
+"satisfied with my product	",product compliment
+"your products are durable	",product compliment
+"I am extremely delighted with the quality	",product compliment
+"i am very happy with the quality I got	",product compliment
+"thank you for the quality	",product compliment
+"thank you for the best product	",product compliment
+"thank you I am happy to get this	",product compliment
+"Colour is not same as it look	",product compliment
+"well designed product	",product compliment
+"this product is well designed	",product compliment
+"Product is not good as it look	",product compliment
+"I am not satisfied with the quality	",product compliment
+"I hope that color is durable	",product compliment
+"size is not same as shown	",product compliment
+"quality is not same as shown	",product compliment
+"got the same size	",product compliment
+"product is worst  useless	",product compliment
+"I got exactly same product as shown! satisfied	",product compliment
+"got exactly same color! happy	",product compliment
+"heyy I got different size	",product compliment
+"heyy I got different colored product	",product compliment
+"hey I got different color	",product compliment
+"this is really a waste	",product compliment
+"this is of no use	",product compliment
+"it is really useful	",product compliment
+"cod?	",payment ask
+"how can i pay?	",payment ask
+"cash on delivery	",payment ask
+"is there another option to pay	",payment ask
+"can i pay later	",payment ask
+"will i have to pay now	",payment ask
+"how to make payment	",payment ask
+"there is connection problem	",payment ask
+"i am unable to make payment via whatsapp	",payment ask
+"is it secure to make payment over here	",payment ask
+"do you need it right now	",payment ask
+"what if i make payment after order received	",payment ask
+"let me get my order first then i will pay	",payment ask
+"i am going to pay only after receiving my order	",payment ask
+"you pay for me i will give you later	",payment ask
+"you pay for me i will give you hardcash	",payment ask
+"can i use tez	",payment ask
+"can i use paytm	",payment ask
+"can i use bhim	",payment ask
+"can i make card payment on cod	",payment ask
+"How to do payment	",payment ask
+"What about payment	",payment ask
+"Tell me about payment	",payment ask
+"And what about payment sir?	",payment ask
+"And the way for payment?	",payment ask
+"can i pay later	",payment ask
+"how to pay? online or handcash?	",payment ask
+"When to pay	",payment ask
+"Can i pay urgently	",payment ask
+"I am short of money  can i pay later	",payment ask
+"I am short of momey  any other option	",payment ask
+"I have no money right now  what to do?	",payment ask
+"is it mandatory to pay right now	",payment ask
+"when to pay brother?	",payment ask
+"should i pay now?	",payment ask
+"can i pay tomorrow?	",payment ask
+"can i pay day after tomorrow?	",payment ask
+"is it mandatory to pay today itself	",payment ask
+"i am your regular customer  can i pay tomorrow	",payment ask
+"i am your regular customer  can i pay later	",payment ask
+"what are the ways to pay?	",payment ask
+"are you accepting the cash?	",payment ask
+"can I pay to you when we meet?	",payment ask
+"i will give you money when we meet   is it fine?	",payment ask
+"is it necessary to pay urgently	",payment ask
+"is it mandatory to pay urgently	",payment ask
+"is it required to pay urgently	",payment ask
+"is it necessary to give urgently	",payment ask
+"is it mandatory to give urgently	",payment ask
+"is it required to give urgently	",payment ask
+"tez?	",payment ask
+"bhim?	",payment ask
+"paytm?	",payment ask
+"tez or bhim?	",payment ask
+"paypal?	",payment ask
+"net banking?	",payment ask
+"why not tez?	",payment ask
+"why not bhim?	",payment ask
+"why not paytm?	",payment ask
+"why only whatsapp payment?	",payment ask
+"whatsapp payment?	",payment ask
+"How to pay with whatsapp payment?	",payment ask
+"How to go with payment?	",payment ask
+"is it secure?	",payment ask
+"is it secure enough?	",payment ask
+"I think its not secure hand cash please?	",payment ask
+"whats the problem with hand cash?	",payment ask
+"any installments option?	",payment ask
+"is there any installment scheme	",payment ask
+"why don't you offer installments scheme	",payment ask
+"what if I pay in installments	",payment ask
+"installments?	",payment ask
+"can I do partial payment now	",payment ask
+"can I do partial payment now and remaining later	",payment ask
+"what if I pay half of the amount	",payment ask
+"what if I pay half of the charges	",payment ask
+"what if I pay half of the amount now	",payment ask
+"what if I pay half of the charges now	",payment ask
+"I am short of money	",payment ask
+"I am broke now	",payment ask
+"I am broke what should I do now	",payment ask
+"I am broke what can I do	",payment ask
+"I am lack of money	",payment ask
+"I am short of money	",payment ask
+"I don't have enough money	",payment ask
+"please help for paying	",payment ask
+"guide me for my payment procedure	",payment ask
+"guide me for my payment process	",payment ask
+"wait for sometime I will surely pay	",payment ask
+"can't you wait for the payment for #day	",payment ask
+"payment mode	",payment ask
+"which payment mode I should prefer	",payment ask
+"what will be the payment mode	",payment ask
+"is there any other mode of payment	",payment ask
+"is there any other payment mode	",payment ask
+"which payment mode I should go for	",payment ask
+"what payment mode I should choose	",payment ask
+"which payment mode you prefer	",payment ask
+"what payment mode you prefer	",payment ask
+"has my product dispatched	",delivery check
+"when it is going to get shipped	",delivery check
+"has my product order placed or not	",delivery check
+"have you taken my order under consideration or not	",delivery check
+"where is my order	",delivery check
+"my order didnt receive yet	",delivery check
+"when will be my product shipped	",delivery check
+"dispatched?	",delivery check
+"not received yet	",delivery check
+"can i cancel it now	",delivery check
+"please track my order	",delivery check
+"can i return the product	",delivery check
+"i have given todays date for delivery i havent received yet	",delivery check
+"why is it getting late	",delivery check
+"hey! I didn't received yet.	",delivery check
+"can you tell me the current location of my shipment	",delivery check
+"tell me the location of shipment	",delivery check
+"tell me the location of my product	",delivery check
+"can I track my order	",delivery check
+"please track my order	",delivery check
+"track my order	",delivery check
+"Please tell me the current location of my product	",delivery check
+"Is it possible to check by myself about delivery	",delivery check
+"Please deliver the product in stipulated time	",delivery check
+"Can I track my product	",delivery check
+"What will be the estimate time for delivery	",delivery check
+"Can I get delivery on time	",delivery check
+"I received the delivery	",delivery check
+"I got my delivery	",delivery check
+"It would be great if I get delivery on time	",delivery check
+"How much time it takes to deliver the product?	",delivery check
+"Where can expect to see it on my doorstep	",delivery check
+"Does I have to wait to receive it	",delivery check
+"What is your delivery time	",delivery check
+"Where can I see my product	",delivery check
+"When I can see my product	",delivery check
+"I can’t wait for more time	",delivery check
+"I can’t Wait to receive it	",delivery check
+"How to track delivery	",delivery check
+"How can I track my product	",delivery check
+"Please send me the product in my specified time	",delivery check
+"I want my delivery according to my time	",delivery check
+"Can you check where the product is	",delivery check
+"Right now what is the status of delivery	",delivery check
+"Get me the status of delivery	",delivery check
+"Will you be able to check my delivery details	",delivery check
+"Please check the status of delivery	",delivery check
+"Hey bro will I get delivery on time	",delivery check
+"Can you place my delivery to my neighbor house	",delivery check
+"Can you place my delivery at someone’s address	",delivery check
+"I want my delivery between these dates	",delivery check
+"I want my delivery as soon as possible	",delivery check
+"Will the price would be the same after delivery	",delivery check
+"I don’t want different product after delivery	",delivery check
+"I don’t want any mal practice in delivery process	",delivery check
+"I hope the product would be on time	",delivery check
+"I will not be available to receive my order	",delivery check
+"I will not be there what can I do then	",delivery check
+"can't you keep my order with you for some days	",delivery check
+"keep it with you I will take it from your home	",delivery check
+"my sister will take delivery is it ok?	",delivery check
+"my brother will take delivery is it ok?	",delivery check
+"my father will take delivery is it ok?	",delivery check
+"my aunt will take delivery is it ok?	",delivery check
+"my grandma will take delivery is it ok?	",delivery check
+"my grandfather will take delivery is it ok?	",delivery check
+"my grandpa will take delivery is it ok?	",delivery check
+"where is your delivery boy	",delivery check
+"why is it not coming	",delivery check
+"I think it is taking too much time	",delivery check
+"don't you think it is taking too much time	",delivery check
+"pls faster your delivery process	",delivery check
+"please contact me when the delivery reached at destination	",delivery check
+"If Incase i am not there please give it to neighbour	",delivery check
+"please give me your assurance that you will deliver on time	",delivery check
+"how much time it generally takes when the distance is too far	",delivery check
+"how much time it generally takes when the distance is less	",delivery check
+"my mom will take delivery is it ok?	",delivery check
+"where is your delivery office?	",delivery check
+"if i didn't get the product can i get my money back?	",delivery check
+"if the product goes in wrong hands then in that case can i get money back?	",delivery check
+"if the product is of wrong choice can i change it?	",delivery check
+"if the product is of wrong choice can i get my money back?	",delivery check
+"if the product is dublicate i will hunt you down!	",delivery check
+"if the product is dublicate can i get my money back?	",delivery check
+"if the product is faulty can i replace with new one	",delivery check
+"will i get acknowlegement after delivery?	",delivery check
+"will i get recepit after delivery?	",delivery check
+"After delivery can i be able to check it before giving money	",delivery check
+"your deliver speed is very good	",delivery compliment
+"I got my order ontime	",delivery compliment
+"thanks for giving product ontime	",delivery compliment
+"delivey was very fast	",delivery compliment
+"I got my delivery ontime	",delivery compliment
+"it was too fast	",delivery compliment
+"it was unexpectadely fast	",delivery compliment
+"I am glad that I got it before my delivery scheduled date	",delivery compliment
+"I am impressed by your delivery process	",delivery compliment
+"delivery speed was really impressive	",delivery compliment
+"got on time	",delivery compliment
+"nice!! delivered on time	",delivery compliment
+"i got late delivery	",delivery compliment
+"cant you make deliveries possible ontime	",delivery compliment
+"I never experienced such a fast delivery speed	",delivery compliment
+"just awesome delivery service	",delivery compliment
+"Your delivery charges are very high	",delivery compliment
+"Bro you are very fast!!	",delivery compliment
+"Make your delivery time faster	",delivery compliment
+"This is the worst delivery time I have ever experienced	",delivery compliment
+"your delivery time is as good as Amazon !!!	",delivery compliment
+"woah!!what a quick service	",delivery compliment
+"Make delivery charges exempt	",delivery compliment
+"you are too slow	",delivery compliment
+"i received faulty piece	",delivery compliment
+"You don’t knows how to deliver the product !	",delivery compliment
+"Yeah  i got the delivery	",delivery compliment
+"I got the product	",delivery compliment
+"I got the delivery in time	",delivery compliment
+"I received tge product in time	",delivery compliment
+"Thanks for in time delivery	",delivery compliment
+"I have not received the delivery yet	",delivery compliment
+"Hey  what about delivery  why it is late	",delivery compliment
+"Hey i have not received it	",delivery compliment
+"Thanks for your fast service	",delivery compliment
+"it's too quick	",delivery compliment
+"thanks for not applying delivery charges	",delivery compliment
+"thank you so much for not applying delivery charges	",delivery compliment
+"glad for not applying delivery charges	",delivery compliment
+"pleased by your delivery service	",delivery compliment
+"satisfied by your delivery service	",delivery compliment
+"great service I ever had	",delivery compliment
+"great delivery service I ever had	",delivery compliment
+"awesome delivery speed	",delivery compliment
+"unsatisfied with delivery speed	",delivery compliment
+"very poor delivery speed	",delivery compliment
+"remarkable delivery speed	",delivery compliment
+"delivery speed is unbeatable	",delivery compliment
+"loved this speed of delivery	",delivery compliment
+"fabulous delivery speed	",delivery compliment
+"thank you so much for not adding any shipping charges	",delivery compliment
+"thank you so much for not applying any shipping charges	",delivery compliment
+"thanks for not adding any shipping charges	",delivery compliment
+"thanks for not applying any shipping charges	",delivery compliment
+"shipping charges are nominal	",delivery compliment
+"shipping charges are too less	",delivery compliment
+"delivery charges are nominal	",delivery compliment
+"delivery charges are too less	",delivery compliment
+"delivery charges are very appropriate	",delivery compliment
+"shipping charges are very appropriate	",delivery compliment
+"delivery speed is appreciable	",delivery compliment
+"shipping speed is appreciable	",delivery compliment
+"shipping speed is not appreciable	",delivery compliment
+"delivery speed is not appreciable	",delivery compliment
+"shipping charges are not appropriate	",delivery compliment
+"delivery charges are not appropriate	",delivery compliment
+"cheap delivery speed	",delivery compliment
+"cheap shipping speed	",delivery compliment
+"cheap delivery charges	",delivery compliment
+"cheap shipping charges	",delivery compliment
+"fabulous shipping speed	",delivery compliment
+"ridiculous delivery speed	",delivery compliment
+"ridiculous shipping speed	",delivery compliment
+"ridiculous delivery charges	",delivery compliment
+"ridiculous shipping charges	",delivery compliment
+"disgusting shipping speed	",delivery compliment
+"disgusting delivery speed	",delivery compliment
+"disgusting delivery charges	",delivery compliment
+"disgusting shipping charges	",delivery compliment
+"awful delivery speed	",delivery compliment
+"awful shipping speed	",delivery compliment
+"awful delivery charges	",delivery compliment
+"awful shipping charges	",delivery compliment
+"unpleasant delivery speed	",delivery compliment
+"unpleasant delivery charges	",delivery compliment
+"unpleasant shipping speed	",delivery compliment
+"unpleasant shipping charges	",delivery compliment
+"very quick service I have ever seen	",delivery compliment
+"very quick delivery	",delivery compliment
+"very quick shipping	",delivery compliment
+"superb delivery speed	",delivery compliment
+"superb shipping speed	",delivery compliment
+"superb delivery charges	",delivery compliment
+"superb shipping charges	",delivery compliment
+"excellent delivery speed	",delivery compliment
+"excellent shipping speed	",delivery compliment
+"indeed pleased by delivery speed	",delivery compliment
+"indeed pleased by shipping speed	",delivery compliment
+"Hey  i dont want the product  can you cancel it?	",order cancellation
+"Can you cancel the product?	",order cancellation
+"Can you refund my money?	",order cancellation
+"Can you cancel my order?	",order cancellation
+"Can you cancel the order?	",order cancellation
+"Cancel the order please	",order cancellation
+"Please cancel my order	",order cancellation
+"I dont want the product	",order cancellation
+"I want my money back	",order cancellation
+"I request you to cancel my order	",order cancellation
+"please be kind  give my money back	",order cancellation
+"Hey bro  show some kindness  return my money	",order cancellation
+"I dont want this product	",order cancellation
+"Cancel the order	",order cancellation
+"Cancel it	",order cancellation
+"I ordered it yesterday only  so please cancel it	",order cancellation
+"Its just 2 days after the order  so please cancel it	",order cancellation
+"Its not late  so cancel it	",order cancellation
+"refund my money  there was not any agreement about no refund	",order cancellation
+"Refund it	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly refund it/	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly refund the amount	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly refund the money	",order cancellation
+"Refund the money I paid	",order cancellation
+"Refund the amount I paid	",order cancellation
+"Refund the money I paid	",order cancellation
+"Refund the amount I gave	",order cancellation
+"Refund the payment i paid	",order cancellation
+"Refund the amount as soon as possible	",order cancellation
+"Refund the bucks as soon as possible	",order cancellation
+"Refund the payment	",order cancellation
+"Refund the payment I gave	",order cancellation
+"Refund my amount	",order cancellation
+"Refund the money	",order cancellation
+"Refund the money I paid	",order cancellation
+"Refund the amount I paid	",order cancellation
+"Refund the money I paid	",order cancellation
+"Refund the amount I gave	",order cancellation
+"Refund the payment i paid	",order cancellation
+"Can you refund my money?	",order cancellation
+"return my money  there was not any agreement about no return	",order cancellation
+"return it	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly return it/	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly return the amount	",order cancellation
+"You are losing one costumer  if you dont want to do so then kindly return the money	",order cancellation
+"return the money I paid	",order cancellation
+"return the amount I paid	",order cancellation
+"return the money I paid	",order cancellation
+"return the amount I gave	",order cancellation
+"return the payment i paid	",order cancellation
+"return the amount as soon as possible	",order cancellation
+"return the bucks as soon as possible	",order cancellation
+"return the payment	",order cancellation
+"return the payment I gave	",order cancellation
+"return my amount	",order cancellation
+"return the money	",order cancellation
+"return the money I paid	",order cancellation
+"return the amount I paid	",order cancellation
+"return the money I paid	",order cancellation
+"return the amount I gave	",order cancellation
+"return the payment i paid	",order cancellation
+"what is the size?	",feature ask
+"size	",feature ask
+"which are the colors available?	",feature ask
+"any other colors available?	",feature ask
+"any other sizes available?	",feature ask
+"i want # size. is it available?	",feature ask
+"i want # size.	",feature ask
+"i want * colored	",feature ask
+"i want * colored. is it available?	",feature ask
+"is it waterproof?	",feature ask
+"what more features it has	",feature ask
+"can i get more information about this	",feature ask
+"is it washable	",feature ask
+"material?	",feature ask
+"it looks small... what is the actual size	",feature ask
+"it looks large... what is the actual size	",feature ask
+"will i get exactly same product	",feature ask
+"looks nice	",feature ask
+"nice color. will i get the same?	",feature ask
+"can you send some more pictures of it	",feature ask
+"is * color available	",feature ask
+"is # size available	",feature ask
+"will i get accessories	",feature ask
+"any accessories	",feature ask
+"tell me when # size is available	",feature ask
+"tell me when * color is available	",feature ask
+"is it for kids	",feature ask
+"is it for men	",feature ask
+"is it for ladies	",feature ask
+"is it for girls	",feature ask
+"is it only for mens	",feature ask
+"is it only for girls	",feature ask
+"is it only for children	",feature ask
+"how much does it weigh?	",feature ask
+"weight	",feature ask
+"is it lightweight	",feature ask
+"is it heavy	",feature ask
+"what are exact dimensions	",feature ask
+"dimensions?	",feature ask
+"is ther any warranty	",feature ask
+"gurantee	",feature ask
+"which brand is this	",feature ask
+"is it of $ brand?	",feature ask
+"does it shine?	",feature ask
+"what is its capacity?	",feature ask
+"capacity	",feature ask
+"what is its height?	",feature ask
+"height?	",feature ask
+"use and throw?	",feature ask
+"where is it made?	",feature ask
+"is it chinamade?	",feature ask
+"is it original?	",feature ask
+"is it duplicate?	",feature ask
+"i am confused about the size	",feature ask
+"i am confused about the color	",feature ask
+"i am confused about the quality	",feature ask
+"is it of @ material?	",feature ask
+"is is replaceble if i am not satisfied	",feature ask
+"any other shades available?	",feature ask
+"are there any different contrasting colors ?	",feature ask
+"is it available in some funky design?	",feature ask
+"any sober color i can choose from?	",feature ask
+"is it a half sleev	",feature ask
+"is it a full sleev	",feature ask
+"is it glossy finished?	",feature ask
+"does it have mat finishing	",feature ask
+"have you got my payment	",payment check
+"i sent my money	",payment check
+"i sent my amount	",payment check
+"i sent my money... have you received?	",payment check
+"have you received my money?	",payment check
+"i paid the amount	",payment check
+"i paid the money	",payment check
+"i have done the payment	",payment check
+"i think payment failed	",payment check
+"i am getting a problem while paying	",payment check
+"transaction completed	",payment check
+"I did the payment	",payment check
+"I am done	",payment check
+"have you got the amount	",payment check
+"I am don with the payment	",payment check
+"I did the payment  is the process completed or anything else is remaining	",payment check
+"yes   I am done	",payment check
+"Hey bro  i am done	",payment check
+"Hey  its finished	",payment check
+"Payment done	",payment check
+"Payment done now	",payment check
+"Okay  done with the payment stuff	",payment check
+"Money sent	",payment check
+"I have sent the amount	",payment check
+"Amount sent	",payment check
+"Have you got the amount	",payment check
+"Have you recieved the money	",payment check
+"Have you got the money	",payment check
+"Hey  amount received?	",payment check
+"Hey  money received?	",payment check
+"Have you got the money?	",payment check
+"Money received?	",payment check
+"Payment received?	",payment check
+"Yes  i am done	",payment check
+"process completed.	",payment check
+"Hey  i am done	",payment check
+"Its done	",payment check
+"Have you received my money?	",payment check
+"Is money received?	",payment check
+"Hey  done with the payment  waiting for my product.	",payment check
+"Hey  anything more?	",payment check
+"Hey  anything else to do?	",payment check
+"Is there anything else to do?	",payment check
+"Is there anything else?	",payment check
+"i have done transaction	",payment check
+"done with transaction	",payment check
+"transaction done	",payment check
+"transaction process completed	",payment check
+"transaction process done	",payment check
+"done with transaction procedure	",payment check
+"I dint receive your confirmation message for payment	",payment check
+"will you please send confirmation message of payment	",payment check
+"when ill get my delivery	",delivery ask
+"what would be the date of delivery	",delivery ask
+"when I will get my product	",delivery ask
+"will I get my delivery on time	",delivery ask
+"will there be any delay in delivery	",delivery ask
+"can I get delivery today	",delivery ask
+"can I get delivery tommorow	",delivery ask
+"can I get delivery day after tommorow	",delivery ask
+"can I get delivery on this weekend	",delivery ask
+"can I get delivery on this date####	",delivery ask
+"can you please change the date of delivery	",delivery ask
+"I want to change the date of delivery	",delivery ask
+"when the delivery is possible	",delivery ask
+"what is fastest day of delivery possible	",delivery ask
+"can I make changes in my delivery schedulle	",delivery ask
+"at what time I will get my product	",delivery ask
+"can I get it by tonight	",delivery ask
+"can I get it in the morning itself	",delivery ask
+"can I get it in the afternoon	",delivery ask
+"can I get it in the evening	",delivery ask
+"is it possible today	",delivery ask
+"is it possible tommorow	",delivery ask
+"is it possible tonight	",delivery ask
+"is it possible to deliver today	",delivery ask
+"is it possible to deliver tonight	",delivery ask
+"is it possible to deliver today evening	",delivery ask
+"is it possible to deliver today morning	",delivery ask
+"is it possible to deliver today night	",delivery ask
+"how much time it will take for delivery	",delivery ask
+"what can be fastest shipping date possible	",delivery ask
+"I want my delivery ontime	",delivery ask
+"will the product get shipped on time	",delivery ask
+"are there any delivery charges?	",delivery ask
+"delivery charges?	",delivery ask
+"is the delivery free?	",delivery ask
+"will it be delivered on time?	",delivery ask
+"free delivery?	",delivery ask
+"how fast can you make	",delivery ask
+"is my order placed?	",delivery ask
+"where is my order?	",delivery ask
+"When i will get the delivery	",delivery ask
+"What will be the delivery date and time	",delivery ask
+"What will be the delivery date	",delivery ask
+"When i will receive the delivery	",delivery ask
+"When i will get the product delivery	",delivery ask
+"When i will get the product	",delivery ask
+"When i will receive the product	",delivery ask
+"What is the estimated delivery time	",delivery ask
+"What is the estimated delivery date	",delivery ask
+"What is the date and time of getting the delivery	",delivery ask
+"When it will be arrived	",delivery ask
+"When it will be received	",delivery ask
+"tell me about the delivery	",delivery ask
+"Tell me about the delivery timings	",delivery ask
+"Tell me about the delivery date	",delivery ask
+"tell me when it will be received	",delivery ask
+"Tell me when i will get it	",delivery ask
+"When i will get the product	",delivery ask
+"When i will receive the packet	",delivery ask
+"upto now taken	",delivery ask
+"is there any delivery charges	",delivery ask
+"I want acknowledgment for my payment	",delivery ask
+"I want proof of payment that I made	",delivery ask
+"I don’t want hand written receipt	",delivery ask
+"What else can I do?	",delivery ask
+"Did you get my money	",delivery ask
+"After how much time the payment confirmation is done	",delivery ask
+"Did you get my cheque	",delivery ask
+"I have done payment twice how can I get my excess money	",delivery ask
+"I have done payment n times how can I get my money back ?	",delivery ask
+"Payment is done but the status is not confirmed yet	",delivery ask
+"Payment is done and also status is confirmed	",delivery ask
+"How can I check that my payment is done	",delivery ask
+"How can I check my transaction	",delivery ask
+"For how much time do I have to wait for successful transaction	",delivery ask
+"Is there any offline messaging after payment confirmation	",delivery ask
+"I didn’t receive your mail yet about successful transaction	",delivery ask
+"I didn’t receive any message regarding payment done	",delivery ask
+"How can I check my payment is done	",delivery ask
+"Will I ab able to check about my transaction?	",delivery ask
+"I have done payment for wrong product in that case what should I do?	",delivery ask
+"Can I make another payment immediately ?	",delivery ask
+"How much secure is your payment gateway ?	",delivery ask
+"How can I contact you regarding payment	",delivery ask
+"Is my money safe	",delivery ask
+"Where do you keep all these payments ?	",delivery ask
+"Can I get offers after payment	",delivery ask
+"I don’t want ad mails after payment	",delivery ask
+"Do u take offline money	",delivery ask
+"Do u take offline payment	",delivery ask
+"I am feeling secure payment gateway	",delivery ask
+"How much profit you make during each payment	",delivery ask
+"Oh I check that I have charged with extra money	",delivery ask
+"This is not fare  I have charged with extra money	",delivery ask
+"U have done cheating by taking extra money	",delivery ask
+"Anything else	",delivery ask
+"Awaiting for acknowledgment	",delivery ask
+"Where to give feedback about payment	",delivery ask
+"How can I cancel the payment	",delivery ask
+"I need my money on urgent basis	",delivery ask
+"It is your problem   I want my money back	",delivery ask
+"You don’t know what would be the consequences if i didn’t get my moneyback	",delivery ask
+"Waiting for the payment successfully done message	",delivery ask
+"What to do if the payment is not successful	",delivery ask
+"What to do now because my money got deducted and I haven’t received anything	",delivery ask
+"I m worried now because I haven’t received any payment messages	",delivery ask
+"After delivery can I be able to verify it before giving payment	",delivery ask
+"Is there any document proof needed for delivery	",delivery ask
+"Do I have to give any tip to delivery boy	",delivery ask
+"Is there any third party involved in delivery	",delivery ask
+"What else can I expect from you other than product	",delivery ask
+"Can I get some free coupons on product	",delivery ask
+"Can I expect to get free tickets or coupons on the product	",delivery ask
+"The delivery boy should not ask for extra money on delivery otherwise he will not come back	",delivery ask
+give me my money,order cancellation
+give me my amount,order cancellation
+give me my money I paid,order cancellation
+give me my amount I paid,order cancellation
+tell me about refund policy,order cancellation
+give me details about refund policy,order cancellation
+send money asap,order cancellation
+return money asap,order cancellation
+send amount asap,order cancellation
+return amount asap,order cancellation
+when will i get my money back,order cancellation
+when will I get my amount back,order cancellation
+I want my refund quick,order cancellation
+I want my money quick,order cancellation
+I want my amount quick,order cancellation
+quickly refund my money,order cancellation
+quickly refund my amount,order cancellation
+quickly return my money back,order cancellation
+quickly return my amount back,order cancellation
+refund asap,order cancellation
+cancel my order I am not happy with product,order cancellation
+cancel my order I am not happy with your service,order cancellation
+cancel my order I am satisfied with your service,order cancellation
+product is not appealing me cancel the order,order cancellation
+tell me how can I cancel order,order cancellation
+tell me how to cancel order,order cancellation
+what is procedure to cancel order,order cancellation
+what procedure should I follow to cancel order,order cancellation
+what is the process to cancel order,order cancellation
+what process should I follow to cancel order,order cancellation
+how to cancel order,order cancellation
+I think I don't need your product right now,order cancellation
+I think there is no use of your product to me,order cancellation
+product is worthless cancel the order,order cancellation
+product is not meeting requirements so cancel the order,order cancellation
+I don't require product right now so cancel the order,order cancellation
+I want good accuracy in terms of delivery,delivery ask
+Can you please show the details of delivery,delivery ask
+Where I will get my delivery,delivery ask
+Where I will get delivery details,delivery ask
+Where is your main office ?,delivery ask
+I want to enquire about delivery office,delivery ask
+Can I get my delivery as per my specified location,delivery ask
+Can you show me which delivery services are better,delivery ask
+Can you please give me better delivery services ?,delivery ask
+Can I visit your delivery service office,delivery ask
+what about the delivery stuff?,delivery ask
+What is the procedure for free delivery charges ?,delivery ask
+What are the rules for delivery charges,delivery ask
+Is there any standard way for getting delivery charges?,delivery ask
+Can you place product in remote areas?,delivery ask
+Is delivery charges depends on distance travel,delivery ask
+Can u exempt delivery charges,delivery ask
+Can I get my delivery with exempted charges,delivery ask
+Can you please reschedule my delivery,delivery ask
+Hey bro please do me a favour of giving my delivery as soon as possible,delivery ask
+is rescheduling possible in delivery,delivery ask
+what can I do to reschedule delivery,delivery ask
+Can I get my delivery in limited time,delivery ask
+Can I get my delivery in stipulated time,delivery ask
+How can I change my address,delivery ask
+Is it possible to deliver lots of product on a single day?,delivery ask
+I want free delivery if not received in stipilulated time,delivery ask
+will i get free delivery if not received in time,delivery ask
+how can I change my location,delivery ask
+can you deliver product to my flat,delivery ask
+tell me about the delivery things.,delivery ask
+is it shinny,feature ask
+is it fancy as it looks in image,feature ask
+is it standard size,feature ask
+is it really wearable,feature ask
+What kind of features are available on this product,feature ask
+Can u please update the features of product,feature ask
+Tell me some advanced features,feature ask
+tell me some more features,feature ask
+I want more features than this,feature ask
+provide me proper features list,feature ask
+What separates this product,feature ask
+Which features separates this product from others,feature ask
+other features than basic,feature ask
+Can You give me detailed features of the product,feature ask
+Is it compatible,feature ask
+Is it convenient to wear,feature ask
+does it have guarantee,feature ask
+does it have warranty,feature ask
+doesn't it have guarantee,feature ask
+doesn't it have warranty,feature ask
+is it sustainable,feature ask
+What is the durability of that product ?,feature ask
+is it sweat absorbing,feature ask
+What kind of clothing is used in that product,feature ask
+How much *%is used,feature ask
+which material is used for this,feature ask
+is branded material used,feature ask
+Which kind of style is suitable on this item,feature ask
+Whether this product is seasonal or not?,feature ask
+is it assured product,feature ask
+What are the benefits of product ?,feature ask
